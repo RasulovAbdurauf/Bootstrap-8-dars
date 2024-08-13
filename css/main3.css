@@ -1,0 +1,9 @@
+.ctv{
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+}
+.ctv:focus{
+    width: 100%;
+    background-color: #007bff;
+}
